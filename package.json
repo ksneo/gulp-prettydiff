@@ -14,10 +14,10 @@
   "author": "C. Spencer Beggs <spencer@beg.gs>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "~4.17.11",
     "map-stream": "0.0.7",
-    "plugin-error": "^1.0.1",
-    "prettydiff2": "^2.2.9"
+    "plugin-error": "~1.0.1",
+    "prettydiff2": "~2.2.7"
   },
   "devDependencies": {
     "eslint": "^4.17.0",
